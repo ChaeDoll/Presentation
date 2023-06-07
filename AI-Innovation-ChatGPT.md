@@ -32,6 +32,7 @@ ChatGPT 링크 → **https://chat.openai.com/chat** ←
 하지만 이를 악용한 사례들이 등장하기 시작했으니…  
 
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/0b312903-dd90-49e8-b1f3-e866df455459" width="35%">  
+
 - 대학 과제를 ChatGPT 사용하여 제출  
 <br>
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/dc65ca13-adf2-41f0-9229-d2c7c43e1b9a" width="35%">  
