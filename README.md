@@ -4,6 +4,6 @@
 
 - [AR / VR 개발을 위한 기술 및 언어](https://github.com/ChaeDoll/Presentation/blob/main/AR-VR-Tech%26Language.md)
 - [XML이란 무엇인가](https://github.com/ChaeDoll/Presentation/blob/main/WhatIsXML.md)  
-- [AI의 발전, Chat GPT]()  
+- [AI의 발전, Chat GPT](https://github.com/ChaeDoll/Presentation/blob/main/AI-Innovation-ChatGPT.md)  
 - [유니티(Unity)는 무엇인가]()  
 - [데이터 정규화]()
