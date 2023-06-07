@@ -37,13 +37,12 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2c3898c-0a99-4cf8-b91d-595a43b8437a/Untitled.png)
     
-- VR은 시뮬레이션에 주로 사용 (스포츠, 군사, 의료 등)
+- VR은 시뮬레이션에 주로 사용 (스포츠, 군사, 의료 등)  
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74252b20-afb9-4fa8-b1dd-d284ac62e565/Untitled.png)  
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/121368fe-ef9e-4448-be9b-8b23e56cd3b1/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca055e02-67d9-4f3a-b2e5-74b4973eb958/Untitled.png)  
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83e17aef-9678-42d5-b903-46c15169c94e/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd3160a8-a872-44bd-97e9-0eadb89daa64/Untitled.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd3160a8-a872-44bd-97e9-0eadb89daa64/Untitled.png)  
     
 - 몰입 체험형 게임 / 영상 관람
 
@@ -64,7 +63,7 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
 데스크탑, 스마트폰, VR기기, AR기기 모든 디바이스에서 접속할 수 있고 체험할 수 있음 ⇒ 
 *반응형 웹을 상상하면 편하다!*
 
-API 란? Application Programming Interface의 약자로서 두 어플리케이션 간 통신에 사용되는 언어나 메세지를 의미한다. 여기에서는 사용자(디바이스)와 가상공간(소프트웨어) 간의 연결을 의미하는 것으로 사용된다. 가상/증강현실 소프트웨어를 다양한 웹 디바이스에서 제어할 수 있도록 하는 것! 
+> API 란? Application Programming Interface의 약자로서 두 어플리케이션 간 통신에 사용되는 언어나 메세지를 의미한다. 여기에서는 사용자(디바이스)와 가상공간(소프트웨어) 간의 연결을 의미하는 것으로 사용된다. 가상/증강현실 소프트웨어를 다양한 웹 디바이스에서 제어할 수 있도록 하는 것! 
 
 웹 사이트 형태로 존재하는 가상/증강현실 소프트웨어를 제어할 수 있는 기술이 준비되었으니 이제 웹에 가상현실을 띄울 수만 있으면 된다.
 
