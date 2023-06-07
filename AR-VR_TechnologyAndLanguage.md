@@ -4,7 +4,7 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd2ab5cb-69d2-43aa-89fb-7237fd13028e/Untitled.png)
+![image](https://github.com/ChaeDoll/Presentation/assets/108540812/593c4755-a0db-4f91-b6e5-d532d9018082)
 
 ---
 
@@ -13,8 +13,8 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
 - 새로운 UX에 대한 이해 (User Experience - 사용자의 느낌, 태도, 행동을 설계하는 기술)
 - 3D엔진에 대한 이해
 - Java, C#, Swift, Javascript 등을 사용하여 상속, 추상화, 캡슐화와 같은 객체지향프로그래밍(OOP)을 사용할 수 있는 숙련도
-- 보이지 않는 부분은 그리지 않도록 하는 최적화 능력
-- + Shader에 대한 이해가 있다면 시각적으로 훌륭한 효과 구현 가능
+- 보이지 않는 부분은 그리지 않도록 하는 최적화 능력  
++ Shader에 대한 이해가 있다면 시각적으로 훌륭한 효과 구현 가능  
 
 ### 현재 AR과 VR의 발전은 어디까지 이루어져 있는가?
 
@@ -23,11 +23,11 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
     
     *아래 사진은 AR기술을 사용한 네비게이션의 모습 (네이버)*
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74252b20-afb9-4fa8-b1dd-d284ac62e565/Untitled.png)
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/f45750da-c07f-4bf8-9988-b9461f98ae91)
     
     *IVAS(통합 시각 증강 시스템)*
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca055e02-67d9-4f3a-b2e5-74b4973eb958/Untitled.png)
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/2e526b64-9763-48a3-92fa-7ce47e802276)
     
     (지도, 나침반, 시야공유, 전장공유, 번역기, 조준/야간투시 기능, 열상 기능 등)
     
@@ -35,14 +35,14 @@ Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 �
     
     *AR 기술을 사용한 카메라 필터는 유튜브 쇼츠, 인스타, 틱톡 등 널리 쓰이고 있다*
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2c3898c-0a99-4cf8-b91d-595a43b8437a/Untitled.png)
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/5543fc46-c2d4-4657-b978-4a5f851397b4)
     
 - VR은 시뮬레이션에 주로 사용 (스포츠, 군사, 의료 등)  
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74252b20-afb9-4fa8-b1dd-d284ac62e565/Untitled.png)  
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/c1d28f6c-20b4-4a6d-9812-774fee14a88e)  
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ca055e02-67d9-4f3a-b2e5-74b4973eb958/Untitled.png)  
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/0ceeb511-2a22-46a3-92d9-6dca7c2b2bd4)  
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd3160a8-a872-44bd-97e9-0eadb89daa64/Untitled.png)  
+    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/a6804e42-3f62-4aca-9dc4-6079f8cc9259)  
     
 - 몰입 체험형 게임 / 영상 관람
 
