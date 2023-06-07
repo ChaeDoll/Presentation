@@ -42,27 +42,20 @@
     
     단점 : 작성하기 어렵고 오래걸리고 용량이 큼
     
-- CSV
-    
-    **콤마와 엔터키를 사용하여 표 형식으로 데이터를 저장함 (comma - separated values)**
-    
+- CSV  
+    **콤마와 엔터키를 사용하여 표 형식으로 데이터를 저장함 (comma - separated values)**  
     > ID, Country, Name, Age
     1153, Korea, Suhyeon, 22
     1263, Japan, Urika, 25
     1662, China, Lin, 21
     
-    장점 : 데이터베이스에 있는 내용을 담기가 편함 (엑셀 표와 같은 형식)
+    장점 : 데이터베이스에 있는 내용을 담기가 편함 (엑셀 표와 같은 형식)  
+    단점 : 표 안에 표가 있는 고차원 데이터를 담는 데에 한계가 있음  
+- JSON  
+    **키-값 쌍으로 이루어진 데이터 오브젝트를 전달하기 위한 표준 포맷 (javascript object notation)**  
+    > { “users” : [ { “first name” : “Lim”, “last name” : “Chaeyun”, “joined” : { “month” : “June”, “day” : 16, “year” : 2022 } }, { “first name” : “Lee”, “last name” : “Hoyeon”, “joined” : { “month” : “October”, “day” : 22, “year” : 2021 } } ] }  
     
-    단점 : 표 안에 표가 있는 고차원 데이터를 담는 데에 한계가 있음
-    
-- JSON
-    
-    **키-값 쌍으로 이루어진 데이터 오브젝트를 전달하기 위한 표준 포맷 (javascript object notation)**
-    
-    > { “users” : [ { “first name” : “Lim”, “last name” : “Chaeyun”, “joined” : { “month” : “June”, “day” : 16, “year” : 2022 } }, { “first name” : “Lee”, “last name” : “Hoyeon”, “joined” : { “month” : “October”, “day” : 22, “year” : 2021 } } ] }
-    
-    .json 파일을 생성하여 데이터를 담을 수 있음
-    
-    장점 : 자료 종류에 제약이 없고 컴퓨터 프로그래밍에 있어서 변수 값 표현에 용이함 (많이 사용),  
+    .json 파일을 생성하여 데이터를 담을 수 있음  
+    장점 : 자료 종류에 제약이 없고 컴퓨터 프로그래밍에 있어서 변수 값 표현에 용이함 (많이 사용)  
     사람과 기계 둘 다 이해하기 쉽게 되어있음  
     언어와 플랫폼에 제약이 없기 때문에 다른 시스템 간 객체 교환에 좋음
