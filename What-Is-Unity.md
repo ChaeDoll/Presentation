@@ -35,4 +35,4 @@
 ### 그 외 라이벌
 - 언리얼 엔진 : 현실같은 그래픽을 자랑으로 하는 게임엔진. 차세대 미래형 게임엔진이였으나, 하드웨어의 발전으로 인해 서서히 우리의 시대로 다가오고 있다.  
     대표작 - 로스트아크, 포트나이트, 배틀그라운드  
-    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/fc9d397b-1e0c-4e49-843e-7a0884043325" width="40%">  
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/fc9d397b-1e0c-4e49-843e-7a0884043325" width="60%">  
