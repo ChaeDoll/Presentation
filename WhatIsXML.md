@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec068e0a-711e-47b9-9f4f-d09f401ace86/Untitled.png)
+![image](https://github.com/ChaeDoll/Presentation/assets/108540812/564ade14-586b-40f8-bf6c-f1733be35394)
 
 ### XML (Extensible Markup Language - W2C에서 개발 / 확장가능한 마크업 언어)
 
@@ -60,12 +60,10 @@
     **키-값 쌍으로 이루어진 데이터 오브젝트를 전달하기 위한 표준 포맷 (javascript object notation)**
     
     > { “users” : [ { “first name” : “Lim”, “last name” : “Chaeyun”, “joined” : { “month” : “June”, “day” : 16, “year” : 2022 } }, { “first name” : “Lee”, “last name” : “Hoyeon”, “joined” : { “month” : “October”, “day” : 22, “year” : 2021 } } ] }
-    > 
     
     .json 파일을 생성하여 데이터를 담을 수 있음
     
-    장점 : 자료 종류에 제약이 없고 컴퓨터 프로그래밍에 있어서 변수 값 표현에 용이함 (많이 사용), 
-    
+    장점 : 자료 종류에 제약이 없고 컴퓨터 프로그래밍에 있어서 변수 값 표현에 용이함 (많이 사용),  
               사람과 기계 둘 다 이해하기 쉽게 되어있음
     
               언어와 플랫폼에 제약이 없기 때문에 다른 시스템 간 객체 교환에 좋음
