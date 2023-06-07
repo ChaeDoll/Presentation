@@ -35,11 +35,11 @@ ChatGPT 링크 → **https://chat.openai.com/chat** ←
 
 
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/dc65ca13-adf2-41f0-9229-d2c7c43e1b9a" width="35%">  
-- 논문, 에세이 대필 문제 발생
+- 논문, 에세이 대필 문제 발생  
 
 
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/35350c1d-3555-4cc6-8a42-2620db2e05e7" width="35%">  
-- 오픈형 API라는 점을 사용한 해킹, 피싱 악용
+- 오픈형 API라는 점을 사용한 해킹, 피싱 악용  
 
 
 ### 과연 ChatGPT는 만능인가?  
