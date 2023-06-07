@@ -1,4 +1,4 @@
-![image](https://github.com/ChaeDoll/Presentation/assets/108540812/564ade14-586b-40f8-bf6c-f1733be35394)
+<img src="https://github.com/ChaeDoll/Presentation/assets/108540812/564ade14-586b-40f8-bf6c-f1733be35394" width="30%">  
 
 ### XML (Extensible Markup Language - W2C에서 개발 / 확장가능한 마크업 언어)
 
