@@ -1,15 +1,12 @@
----
+<img src="https://github.com/ChaeDoll/Presentation/assets/108540812/fc7e5bd7-4806-4516-be64-37909a78e17b" width="38%">  
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16bbbaaf-0d97-4f0a-9c0e-84990c38cf11/Untitled.png)
-
----
-
-# 데이터베이스
+# 데이터베이스 
 
 - 구조화된 정보나 데이터의 조직화된 모음을 의미한다 ⇒ 컴퓨터 시스템에 전자적으로 저장됨
 - 여러 사람에 의해 공유되어 사용될 목적으로 통합하여 관리되는 데이터의 집합
 - 정보가 들어있는 **테이블**들을 모아둔 곳을 데이터베이스, DB라고 부름
 
+<img src="https://github.com/ChaeDoll/Presentation/assets/108540812/fc7e5bd7-4806-4516-be64-37909a78e17b" width="38%">
 ![행과 열로 정보를 기록하는 구조를 테이블(Table)이라 칭한다 ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/efff36cb-1ff2-4af3-aa3b-7ab7f8ad4803/Untitled.png)
 
 행과 열로 정보를 기록하는 구조를 테이블(Table)이라 칭한다 
