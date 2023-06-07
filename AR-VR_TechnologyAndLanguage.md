@@ -34,13 +34,11 @@
     <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/5543fc46-c2d4-4657-b978-4a5f851397b4" width="35%">  
     
 - VR은 시뮬레이션에 주로 사용 (스포츠, 군사, 의료 등)  
-    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/c1d28f6c-20b4-4a6d-9812-774fee14a88e" width="35%">  
-    
-    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/0ceeb511-2a22-46a3-92d9-6dca7c2b2bd4" width="35%">  
-    
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/c1d28f6c-20b4-4a6d-9812-774fee14a88e" width="35%"><br>    
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/0ceeb511-2a22-46a3-92d9-6dca7c2b2bd4" width="35%"><br>
     <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/a6804e42-3f62-4aca-9dc4-6079f8cc9259" width="35%">  
     
-- 몰입 체험형 게임 / 영상 관람
+- 그 외 : 몰입 체험형 게임 / 영상 관람
 
 ---
 
