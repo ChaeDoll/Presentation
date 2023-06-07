@@ -21,6 +21,7 @@
 위 내용들은 간단한 개요일 뿐이다. 차후 ChatGPT의 발전은 AI 미래 산업에 주요 역할을 할 것으로 기대된다.  
 
 <hr>  
+
 ### 위에 적힌 발표 자료들은 모두 ChatGPT가 생성해낸 발표자료  
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/a7a9e9ba-efb9-4ace-8ce8-f36121195d37" width="40%"><br>
 <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/26c554f4-6dbb-4d84-98c1-7c8289eb5a2a" width="40%">  
