@@ -4,7 +4,7 @@
 
 ---
 
-![image width="50%"](https://github.com/ChaeDoll/Presentation/assets/108540812/593c4755-a0db-4f91-b6e5-d532d9018082)
+<img src="https://github.com/ChaeDoll/Presentation/assets/108540812/593c4755-a0db-4f91-b6e5-d532d9018082" width="60%">
 
 ---
 
