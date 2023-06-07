@@ -1,10 +1,10 @@
 # AR / VR 개발을 위한 기술 및 언어  
 
-Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 위해 필요한 지식들
+**Augmented Reality (증강 현실) / Virtual Reality (가상 현실) 개발을 위해 필요한 지식들**
 
 ---
 
-![image](https://github.com/ChaeDoll/Presentation/assets/108540812/593c4755-a0db-4f91-b6e5-d532d9018082)
+![image width="50%"](https://github.com/ChaeDoll/Presentation/assets/108540812/593c4755-a0db-4f91-b6e5-d532d9018082)
 
 ---
 
