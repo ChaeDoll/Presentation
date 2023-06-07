@@ -22,27 +22,23 @@
 - 현재 AR기술은 의료, 디자인, 관광, 교육, 군사 등 여러 분야에 걸쳐 발전 중
     
     *아래 사진은 AR기술을 사용한 네비게이션의 모습 (네이버)*
-    
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/f45750da-c07f-4bf8-9988-b9461f98ae91)
-    
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/f45750da-c07f-4bf8-9988-b9461f98ae91" width="35%">  
+   
     *IVAS(통합 시각 증강 시스템)*
-    
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/2e526b64-9763-48a3-92fa-7ce47e802276)
-    
-    (지도, 나침반, 시야공유, 전장공유, 번역기, 조준/야간투시 기능, 열상 기능 등)
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/2e526b64-9763-48a3-92fa-7ce47e802276" width="35%">  
+    (지도, 나침반, 시야공유, 전장공유, 번역기, 조준/야간투시 기능, 열상 기능 등)  
     
 - 인스타그램, 스노우 등 카메라를 사용하는 어플리케이션에 있는 필터
     
     *AR 기술을 사용한 카메라 필터는 유튜브 쇼츠, 인스타, 틱톡 등 널리 쓰이고 있다*
-    
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/5543fc46-c2d4-4657-b978-4a5f851397b4)
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/5543fc46-c2d4-4657-b978-4a5f851397b4" width="35%">  
     
 - VR은 시뮬레이션에 주로 사용 (스포츠, 군사, 의료 등)  
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/c1d28f6c-20b4-4a6d-9812-774fee14a88e)  
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/c1d28f6c-20b4-4a6d-9812-774fee14a88e" width="35%">  
     
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/0ceeb511-2a22-46a3-92d9-6dca7c2b2bd4)  
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/0ceeb511-2a22-46a3-92d9-6dca7c2b2bd4" width="35%">  
     
-    ![image](https://github.com/ChaeDoll/Presentation/assets/108540812/a6804e42-3f62-4aca-9dc4-6079f8cc9259)  
+    <img src="https://github.com/ChaeDoll/Presentation/assets/108540812/a6804e42-3f62-4aca-9dc4-6079f8cc9259" width="35%">  
     
 - 몰입 체험형 게임 / 영상 관람
 
