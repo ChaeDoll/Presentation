@@ -13,18 +13,18 @@
 
 형태 예시 … 
 
-> <family>
-      <human>
-            <mother age>Alice</mother>
-            <father>John</father>
-            <brother>Paul</brother>
-            <me>Chaeyun</me>
-      </human>
-      <animal>
-            <dog>Choco</dog>
-      </animal>
-</family>
-> 
+> <family>  
+      <human>  
+            <mother age>Alice</mother>  
+            <father>John</father>  
+            <brother>Paul</brother>  
+            <me>Chaeyun</me>  
+      </human>  
+      <animal>  
+            <dog>Choco</dog>  
+      </animal>  
+</family>  
+
 - 위 형태에서 엿볼 수 있듯이,  데이터를 정리하는 데에 용이한 언어
 - 다른 사용자와 정보를 교환할 때  긴 설명 필요 없이 태그를 통해 원하는 데이터를 취득 가능
 
