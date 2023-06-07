@@ -1,4 +1,4 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a39ad88-ec6a-4ac5-8665-c421aa50eb77/Untitled.png)
+<img src="https://github.com/ChaeDoll/Presentation/assets/108540812/9ca73cbf-8904-4581-8a2b-e7b4cd58cd45" width="40%">
 
 ### ChatGPT란 무엇인가?
 
