@@ -7,3 +7,4 @@
 - [AI의 발전, Chat GPT](https://github.com/ChaeDoll/Presentation/blob/main/AI-Innovation-ChatGPT.md)  
 - [유니티(Unity)는 무엇인가](https://github.com/ChaeDoll/Presentation/blob/main/What-Is-Unity.md)  
 - [데이터 정규화](https://github.com/ChaeDoll/Presentation/blob/main/Data-Nomalization.md)
+- [프론트엔드의 대명사 리액트(React)는 무엇인가](https://github.com/ChaeDoll/Presentation/blob/main/What-Is-React.md)
